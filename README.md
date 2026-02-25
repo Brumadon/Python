@@ -5,4 +5,5 @@ Python Projects and Data Manipulations
 <br>M3 explores pulling and analyzing data from large tables.
 <br>M5 introduces Python's Pandas, which allows creation and manipulation of tables from stored data.
 <br>M6 shows the graphing and plotting abilities as well as the calculations possible from Python's Plotly Express and Pandas collaboration.
-<br>M7
+<br>M7 displays the abilities to clean tables and lists and further calculations using influenced data put into custom data tables and arrays.
+<br>M8 
